@@ -1,0 +1,17 @@
+#virtual environment
+/.venv/
+/venv/
+venv/
+#db
+/.db.sqlite3/
+./db.sqlite3/
+.db.sqlite3/
+/.db.sqilite3
+db.sqlite3/
+#pycache
+.__pycache__
+./__pycache__
+/.__pycache__
+/.__pycache__/
+
+
